@@ -1,0 +1,8 @@
+names:
+  0: Player
+  1: Ball
+  2: Referee
+path: /content/Football_Project_Dataset/V1
+train: images/train
+val: images/test
+test: images/test
